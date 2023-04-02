@@ -19,5 +19,4 @@
 
 ### 5주차 IT 기술 용어 모음
 - VAN, PG
-- EDI
-- DW
+- EDI, DW
